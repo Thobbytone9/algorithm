@@ -1,0 +1,32 @@
+
+1. create a variable to hold the sentence
+2. create a  variable to hold character count
+3. read through the characters and add 1 to character count
+4. on getting to full stop (.) stop counting
+5. print character count
+
+
+
+
+
+
+1. create a variable to hold a sentence
+2. create a variable to hold word count
+3. read through the sentence character by character
+4. on getting to space add 1 to word count
+5. repeat step 3 and 4
+6. on getting to full stop, stop counting
+7. print word count
+
+
+
+
+
+
+1. create a variable to hold your sentence
+2. create a variable to hold vowel characters
+3. count a variable to hold vowel counts
+4. read through the sentence chacteracter by character and compare the caracter to vowel
+5. if the sentence character match any of the vowel character matches any of the vowel character, add 1 to vowel count
+6. on . reach, stop counting
+7. print the vowel count
